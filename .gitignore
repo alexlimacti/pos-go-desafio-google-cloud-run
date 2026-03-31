@@ -1,0 +1,9 @@
+# Binários
+desafio-cloud-run
+*.exe
+
+# Arquivos de ambiente
+.env
+
+# Diretório do VSCode
+.vscode/
